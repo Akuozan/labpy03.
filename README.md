@@ -24,3 +24,28 @@ Mata kuliah : Bahasa pemrograman <p>
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
    
   ### Program python
+  ![gambar1](1.png)
+### Hasil eksekusi program 
+ini hasil eksekusi program python diatas
+![gambar1](2.png)
+
+## `Latihan2: Laba`
+### Alur Algoritma Latihan2 :
+ 1. Mulai Program:
+    - Inisialisasi modal awal sebesar Rp 100.000.000.
+    - Buat daftar keuntungan_bulanan yang berisi persentase keuntungan untuk setiap bulan.
+ 2. Inisialisasi Variabel:
+    - Inisialisasi total_keuntungan dengan nilai 0 untuk menyimpan total keuntungan selama 8 bulan.
+ 3. Looping:
+    - Gunakan loop for untuk iterasi dari bulan 1 hingga bulan 8.
+ 4. Menghitung Keuntungan Bulanan:
+    - Di dalam loop, hitung laba bulan ini dengan mengalikan modal awal dengan persentase keuntungan bulan tersebut.
+    - Tambahkan laba bulan ini ke total_keuntungan.
+ 5. Menampilkan Keuntungan Bulanan:
+    - Cetak keuntungan untuk bulan tersebut.
+ 6. Akhir Looping:
+    - Ulangi langkah 4 dan 5 untuk setiap bulan hingga bulan ke-8.
+ 7. Menampilkan Total Keuntungan:
+    - Setelah loop selesai, cetak total keuntungan selama 8 bulan.
+8. Selesai:
+    - Program selesai.
