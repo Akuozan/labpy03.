@@ -87,3 +87,10 @@ ini hasil eksekusi program python diatas
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python
+![gambar1](6.png)
+
+### Hasil eksekusi program 
+ini hasil eksekusi program python diatas
+![gambar1](7.png)
+
+
